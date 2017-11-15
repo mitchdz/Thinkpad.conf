@@ -1,0 +1,10 @@
+
+
+
+
+
+	i3status	//maybe
+font-awesome icon packs.
+
+
+
